@@ -1,0 +1,48 @@
+COBI Studio Modern Log File 2.2	1.3.8381.29180
+Start Time:	Thu Jul 06 14:56:03.140 2023
+Files:
+C:\Users\churl\OneDrive\Desktop\Application-main\data\@_0_230706_145603\@_0_230706_145603_Dev1_P1_Sub0.nir
+C:\Users\churl\OneDrive\Desktop\Application-main\data\@_0_230706_145603\@_0_230706_145603_Dev1_P1_Sub0.oxy
+C:\Users\churl\OneDrive\Desktop\Application-main\data\@_0_230706_145603\@_0_230706_145603.log
+
+Devices:
+Device 1 (Model 2000C Imager)	Id: 96	v1.7
+
+Data Sources:
+Device 1 (Model 2000C Imager)	P1:HD 	
+
+Marker Sources:
+
+Broadcasts:
+
+
+
+
+Experimenter:
+@
+
+ExperimentID:
+0
+
+Participants:
+Source	SubjectID	Age	Gender
+All	0		
+
+Description:
+Quick access to record data was selected!
+
+
+Comments:
+
+
+FinalComments:
+
+
+Flagged:
+
+
+Marker Dictionary:
+Source	Value	Description
+
+
+Finalized successfully
